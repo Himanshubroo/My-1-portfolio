@@ -308,7 +308,7 @@ img {
 
 /*==================== HOME ====================*/
 .home {
-    padding-top: 60px;
+    padding-top: 40px;
 }
 
 .home__content {
@@ -446,7 +446,7 @@ img {
 
 /*==================== ABOUT ====================*/
 .about {
-    padding-top: 200px;
+    padding-top: 110px;
 }
 
 .about__img {
@@ -611,7 +611,7 @@ img {
 
 /*==================== SERVICES ====================*/
 .services {
-    padding-top: 300px;
+    padding-top: 220px;
 }
 
 .services__container {
