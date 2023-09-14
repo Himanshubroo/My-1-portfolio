@@ -443,6 +443,14 @@ img {
     background-color: transparent;
     color: var(--first-color-alt);
 }
+.send{
+    padding: 2rem;
+    align-items: center;
+}
+.send__btn{
+    padding: 1rem;
+    align-items: center;
+}
 
 /*==================== ABOUT ====================*/
 .about {
@@ -1021,13 +1029,13 @@ img {
 
 }
 
-/* For medium devices */
+/* For medium devices 
 @media screen and (max-width: 568px) {
     .container {
         margin-left: var(--mb-1);
         margin-right: var(--mb-1);
     }
-/*
+
     .home__content {
         grid-template-columns: max-content 1fr 1fr;
     }
@@ -1050,7 +1058,7 @@ img {
 
     .skills__container {
         margin-right: 39px;
-    }
+    } */
 
 }
 @media screen and (min-width: 768px) {
@@ -1115,7 +1123,91 @@ img {
         padding-top: 5.5rem;
         column-gap: 2rem;
     }
+    .home__blob {
+        width: 270px;
+
+    }
+
+    .home__scroll {
+        display: block;
+    }
+
+    .home__scroll-button {
+        margin-left: 3rem;
+
+    }
+
+    .about__container {
+        column-gap: 5rem;
+    }
+
+    .about__img {
+        width: 350px;
+    }
+
+    .about__description {
+        text-align: initial;
+    }
+
+    .about__info {
+        justify-content: space-between;
+    }
+
+    .about__buttons {
+        justify-content: center;
+    }
+
+    .services__container {
+        grid-template-columns: repeat(3, 218px);
+    }
+
+    .services__icon {
+        font-size: 2rem;
+    }
+
+    .ai__content {
+        text-align: initial;
+        margin-bottom: var(--mb-2);
+        margin-left: 3rem;
+        margin-right: 3rem;
+    }
+
+    .services__content {
+        padding: 6rem 0 2rem 2.5rem;
+    }
+
+    .services__modal-content {
+        width: 450px;
+    }
+
+    .portfolio__img {
+        width: 320px;
+    }
+
+    .portfolio__content {
+        align-items: center;
+    }
+
+    .project {
+        text-align: initial;
+    }
+
+    .project__bg {
+        background: none;
+    }
+
+    .project__container {
+        background-color: var(--first-color-second);
+        border-radius: 1rem;
+        padding: 3rem 2.5rem 0;
+        grid-template-columns: 1fr max-content;
+        column-gap: 3rem;
+    }
+
+    .project__data {
+        padding-top: .8rem;
+    }
 }
-*/
+
 
 /* For large devices */
