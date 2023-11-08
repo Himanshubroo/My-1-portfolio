@@ -1,19 +1,8 @@
 /*======================== ICON ======================*/
-/* @import url('https://unpkg.com/css.gg@2.0.0/icons/css/home-alt.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/user.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/file-document.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/briefcase.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/image.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/comment.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/close.css');
- */
 * {
     padding: 0;
     margin: 0;
 }
-
-/*==================== GOOGLE FONTS ====================*/
-/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"); */
 
 /*==================== VARIABLES CSS ====================*/
 :root {
@@ -83,13 +72,6 @@
         --smaller-font-size: .813rem;
     }
 }
-
-/*========== Variables Dark theme ==========*/
-
-
-/*========== Button Dark/Light ==========*/
-
-
 /*==================== BASE ====================*/
 * {
     box-sizing: border-box;
