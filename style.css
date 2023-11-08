@@ -1,4 +1,12 @@
 /*======================== ICON ======================*/
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/home-alt.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/user.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/file-document.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/briefcase.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/image.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/comment.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/close.css'); 
+/*======================== ICON ======================*/
 * {
     padding: 0;
     margin: 0;
